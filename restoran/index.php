@@ -75,7 +75,7 @@ if (isset($_GET['log'])) {
 
         <div class="row mt-5">
             <div class="col">
-                <p class="text-center">2021 copyright@kalvin.com</p>
+                <p class="text-center">2019 copyright@kalvin.com</p>
             </div>
         </div>
     </div>
